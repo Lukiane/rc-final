@@ -91,7 +91,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #1b273d;
+  color: #1c1d21;
 }
 h1,
 .h1 {
@@ -181,7 +181,7 @@ table th {
   font-family: 'Oswald', sans-serif;
   font-weight: 400;
   text-transform: uppercase;
-  color: #1b273d;
+  color: #1c1d21;
   text-align: center;
 }
 .lgx-table tbody tr td,
@@ -233,7 +233,7 @@ blockquote {
   font-family: 'Oswald', sans-serif;
   text-align: center;
   overflow: hidden;
-  color: #1b273d;
+  color: #1c1d21;
   margin: 2rem auto;
   font-weight: 400;
   display: block;
@@ -339,7 +339,7 @@ blockquote:before {
   opacity: 1;
 }
 .lgx-social:hover > li:hover a {
-  background: #efa506;
+  background: #f8c713;
 }
 .form-control {
   display: block;
@@ -381,7 +381,7 @@ textarea.form-control {
   line-height: 63px;
   font-size: 4.2rem;
   line-height: 6.300000000000001rem;
-  color: #1b273d;
+  color: #1c1d21;
   font-weight: 900;
   margin: 0 0 1rem;
   text-transform: uppercase;
@@ -392,7 +392,7 @@ textarea.form-control {
   line-height: 30px;
   font-size: 2rem;
   line-height: 3rem;
-  color: #1b273d;
+  color: #1c1d21;
   color: rgba(50, 51, 51, 0.8);
   font-weight: 400;
   margin: 0;
@@ -495,7 +495,7 @@ button:after,
   height: 200px;
   width: 200px;
   background: url(../img/dots3.png) 0 0 repeat;
-  background: #1b273d;
+  background: #1c1d21;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
   -webkit-transform: translateX(-98%) translateY(-25%) rotate(45deg);
@@ -518,13 +518,13 @@ button:hover:after,
   font-size: 12px;
 }
 .lgx-btn-red {
-  background: #ec398b;
+  background: #f8c713;
 }
 .lgx-btn-yellow {
-  background: #efa506;
+  background: #f8c713;
 }
 .lgx-btn-black {
-  background: #1b273d;
+  background: #1c1d21;
 }
 .lgx-btn-black:after {
   background: #fff;
@@ -561,7 +561,7 @@ button:hover:after,
 }
 .mfp-wrap .mfp-arrow {
   height: auto;
-  background: #efa506;
+  background: #f8c713;
   border-radius: 16px;
 }
 .mfp-wrap .mfp-arrow::before,
@@ -6158,7 +6158,7 @@ button:hover:after,
   opacity: .8;
   letter-spacing: .06rem;
   padding: 32px 11px;
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-header .lgx-navbar .lgx-nav li a:hover {
   background: transparent;
@@ -6251,7 +6251,7 @@ button:hover:after,
   font-size: 26px;
   font-size: 2.6rem;
   margin-right: 1rem;
-  color: #1b273d;
+  color: #1c1d21;
   display: inline-block;
 }
 .lgx-header .lgx-nav-right .lgx-search a {
@@ -6269,7 +6269,7 @@ button:hover:after,
   margin: 0 3rem;
 }
 .header-top {
-  background: #1b273d;
+  background: #1c1d21;
 }
 .header-top .header-top-inner ul li {
   margin-top: 8px;
@@ -6382,10 +6382,10 @@ button:hover:after,
   background: #ffbb33;
 }
 .lgx-header-background-black {
-  background: #1b273d;
+  background: #1c1d21;
 }
 .lgx-header .menu-onscroll {
-  background: rgba(27, 39, 61, 0.95);
+  background: rgba(28, 29, 33, 0.95);
   position: fixed;
   top: 0;
   width: 100%;
@@ -6576,7 +6576,7 @@ button:hover:after,
     padding: 10px 7px;
   }
   .lgx-header-position {
-    background: #1b273d;
+    background: #1c1d21;
   }
   .lgx-header-position-fixed {
     position: static;
@@ -6815,7 +6815,7 @@ button:hover:after,
   font-size: 6.8rem;
   line-height: 10.2rem;
   font-weight: 300;
-  color: #efa506;
+  color: #f8c713;
   margin: 0;
   line-height: 7.2rem;
 }
@@ -6838,11 +6838,11 @@ button:hover:after,
 }
 .lgx-banner-info .title i b:nth-child(1),
 .lgx-banner-info .title span b:nth-child(1) {
-  color: #ec398b;
+  color: #f8c713;
 }
 .lgx-banner-info .title i b:nth-child(2),
 .lgx-banner-info .title span b:nth-child(2) {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-banner-info .title i b:nth-child(3),
 .lgx-banner-info .title span b:nth-child(3) {
@@ -6859,7 +6859,7 @@ button:hover:after,
   margin: 0 0 .3rem;
 }
 .lgx-banner-info .date i {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-banner-info .location {
   font-family: 'Poppins', sans-serif;
@@ -6872,7 +6872,7 @@ button:hover:after,
   margin: 0 0 .3rem;
 }
 .lgx-banner-info .location i {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-banner-info .action-area {
   display: flex;
@@ -6909,7 +6909,7 @@ button:hover:after,
 }
 .lgx-banner-info .action-area .video-area a:hover i {
   background: #ffffff;
-  color: #efa506;
+  color: #f8c713;
 }
 .banner-info-margin {
   margin-top: 4.2rem;
@@ -6952,7 +6952,7 @@ button:hover:after,
   font-size: 16.6rem;
   line-height: 24.900000000000002rem;
   line-height: 16rem;
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-banner-info-circle .info-circle-inner .date span {
   font-family: 'Poppins', sans-serif;
@@ -6979,7 +6979,7 @@ button:hover:after,
   font-size: 32rem;
   line-height: 48rem;
   line-height: 28rem;
-  color: #efa506;
+  color: #f8c713;
   position: relative;
   letter-spacing: -10px;
 }
@@ -7009,7 +7009,7 @@ button:hover:after,
   text-align: center;
 }
 .lgx-banner-info-date .location i {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-banner-info-date-right {
   border-radius: 8px;
@@ -7023,7 +7023,7 @@ button:hover:after,
   font-size: 6.8rem;
   line-height: 10.2rem;
   font-weight: 300;
-  color: #efa506;
+  color: #f8c713;
   margin: 0;
   line-height: 7.2rem;
 }
@@ -7043,10 +7043,10 @@ button:hover:after,
   display: block;
 }
 .lgx-banner-info-homeone .title span b:nth-child(1) {
-  color: #ec398b;
+  color: #f8c713;
 }
 .lgx-banner-info-homeone .title span b:nth-child(2) {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-banner-info-homeone .title span b:nth-child(3) {
   color: #00acee;
@@ -7149,7 +7149,7 @@ button:hover:after,
   font-size: 6.8rem;
   line-height: 10.2rem;
   font-weight: 900;
-  color: #1b273d;
+  color: #1c1d21;
   margin: 0;
   line-height: 8.5rem;
   margin-bottom: 4.2rem;
@@ -7563,7 +7563,7 @@ button:hover:after,
   left: 0;
   border-radius: 0;
   opacity: 1;
-  color: #1b273d !important;
+  color: #1c1d21 !important;
 }
 .lgx-slider-navbottom .owl-controls .owl-nav .owl-next {
   background: rgba(27, 39, 61, 0.8);
@@ -8249,7 +8249,7 @@ lgx-zoomInUp
 }
 .about-date-area p span {
   display: block;
-  color: #1b273d;
+  color: #1c1d21;
   font-family: 'Oswald', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -8278,7 +8278,7 @@ lgx-zoomInUp
 }
 .lgx-about-content-area .lgx-heading .subheading {
   font-family: 'Oswald', sans-serif;
-  color: #ec398b;
+  color: #f8c713;
   font-size: 20px;
   line-height: 30px;
   font-size: 2rem;
@@ -8303,7 +8303,7 @@ lgx-zoomInUp
 .lgx-about-service .lgx-single-service-white .icon {
   font-size: 68px;
   font-size: 6.8rem;
-  color: #ec398b;
+  color: #f8c713;
   opacity: .4;
 }
 .lgx-about-service .lgx-single-service-white .text-area .title {
@@ -8402,7 +8402,7 @@ lgx-zoomInUp
   height: 150%;
   width: 150%;
   background: url(../img/dots2.png) 0 0 repeat;
-  background: #1b273d;
+  background: #1c1d21;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
   -webkit-transform: translateX(-98%) translateY(-25%) rotate(45deg);
@@ -8470,7 +8470,7 @@ lgx-zoomInUp
   line-height: 3.9000000000000004rem;
   font-weight: 700;
   margin: 0;
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-single-speaker .speaker-info .title a {
   font-size: inherit;
@@ -8578,7 +8578,7 @@ lgx-zoomInUp
   line-height: 3.9000000000000004rem;
   font-weight: 700;
   margin: 0;
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-single-speaker-circle .speaker-info .title a {
   font-size: inherit;
@@ -8672,7 +8672,7 @@ lgx-zoomInUp
   line-height: 3.9000000000000004rem;
   font-weight: 700;
   margin: 0;
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-single-speaker2 .speaker-info .title a {
   font-size: inherit;
@@ -8687,7 +8687,7 @@ lgx-zoomInUp
   font-weight: 400;
   text-transform: uppercase;
   margin: 0;
-  color: #ec398b;
+  color: #f8c713;
   opacity: .7;
 }
 .lgx-single-speaker2:hover figure a.profile-img img {
@@ -8710,7 +8710,7 @@ lgx-zoomInUp
   opacity: 1;
 }
 .lgx-single-speaker2:hover .speaker-info {
-  background: #1b273d;
+  background: #1c1d21;
 }
 .lgx-single-speaker2:hover .speaker-info .title {
   color: #fff;
@@ -8719,7 +8719,7 @@ lgx-zoomInUp
   color: inherit;
 }
 .lgx-single-speaker2:hover .speaker-info .subtitle {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-single-speaker3 figure {
   background: #fff;
@@ -8863,7 +8863,7 @@ lgx-zoomInUp
   background-size: 100% auto, cover;
 }
 .lgx-schedule-black {
-  background: #1b273d;
+  background: #1c1d21;
 }
 .lgx-schedule-white {
   background: #f1f1f1;
@@ -8909,7 +8909,7 @@ lgx-zoomInUp
   padding: 1rem 5px !important;
 }
 .lgx-tab .lgx-nav-colorful li:nth-child(1) {
-  background: #efa506;
+  background: #f8c713;
 }
 .lgx-tab .lgx-nav-colorful li:nth-child(2) {
   background: #ff8a00;
@@ -9005,7 +9005,7 @@ lgx-zoomInUp
   border-radius: 0;
 }
 .lgx-tab .nav-pills .active a h3 {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-tab2 .lgx-nav,
 .lgx-tab2 .lgx-tab-content {
@@ -9161,7 +9161,7 @@ lgx-zoomInUp
 .lgx-panel .lgx-single-schedule .author img {
   border-radius: 50%;
   margin-bottom: .4rem;
-  border: 2px solid #efa506;
+  border: 2px solid #f8c713;
 }
 .lgx-panel .lgx-single-schedule .author-multi img {
   width: 48%;
@@ -9190,7 +9190,7 @@ lgx-zoomInUp
   border-radius: 25px;
 }
 .lgx-panel .lgx-single-schedule .schedule-info .time span {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-panel .lgx-single-schedule .schedule-info .title {
   font-family: 'Poppins', sans-serif;
@@ -9211,7 +9211,7 @@ lgx-zoomInUp
   margin-bottom: 0;
 }
 .lgx-panel .lgx-single-schedule .schedule-info .author-info span {
-  color: #ec398b;
+  color: #f8c713;
 }
 .lgx-panel .panel-body .text {
   margin-bottom: 1.6rem;
@@ -9360,7 +9360,7 @@ lgx-zoomInUp
   background-size: cover;*/
 }
 .lgx-sponsors-black .lgx-inner {
-  background: rgba(27, 39, 61, 0.95);
+  background: rgba(28, 29, 33, 0.95);
 }
 .lgx-sponsors-christmas {
   background: transparent;
@@ -9384,10 +9384,10 @@ lgx-zoomInUp
   margin-top: 0;
 }
 .sponsored-heading.secound-heading {
-  color: #ec398b;
+  color: #f8c713;
 }
 .sponsored-heading.third-heading {
-  color: #efa506;
+  color: #f8c713;
 }
 .sponsors-area {
   text-align: center;
@@ -9758,7 +9758,7 @@ lgx-zoomInUp
   color: inherit;
 }
 .lgx-single-news .meta-wrapper span a:hover {
-  color: #ec398b;
+  color: #f8c713;
 }
 .lgx-single-news .meta-wrapper span:last-child:after {
   display: none;
@@ -9809,7 +9809,7 @@ lgx-zoomInUp
   background: rgba(255, 187, 51, 0.9);
 }
 .lgx-registration3 {
-  background: #1b273d;
+  background: #1c1d21;
 }
 .lgx-registration4 {
   background: url('http://placehold.it/1920x1000') bottom center no-repeat fixed;
@@ -9880,10 +9880,10 @@ lgx-zoomInUp
   z-index: 0;
 }
 .lgx-registration-area .lgx-single-registration .lgx-btn {
-  background: #ec398b;
+  background: #f8c713;
 }
 .lgx-registration-area .lgx-single-registration .lgx-btn:hover {
-  background: #efa506;
+  background: #f8c713;
 }
 .lgx-registration-area .lgx-single-registration .lgx-single-registration-inner {
   padding: 4.2rem 2rem 6.8rem;
@@ -9910,7 +9910,7 @@ lgx-zoomInUp
 }
 .lgx-registration-area .lgx-single-registration .single-top .price {
   font-family: 'Poppins', sans-serif;
-  color: #efa506;
+  color: #f8c713;
   font-size: 68px;
   line-height: 102px;
   font-size: 6.8rem;
@@ -9972,21 +9972,21 @@ lgx-zoomInUp
   color: inherit;
 }
 .lgx-registration-area .lgx-single-registration:hover .single-top p {
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-registration-area .lgx-single-registration:hover .single-top .price {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-registration-area .lgx-single-registration:hover .single-top .price i {
-  color: #1b273d;
+  color: #1c1d21;
   opacity: .4;
 }
 .lgx-registration-area .lgx-single-registration:hover .single-top .price span {
-  color: #1b273d;
+  color: #1c1d21;
   opacity: .7;
 }
 .lgx-registration-area .lgx-single-registration:hover .single-bottom ul li {
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-registration-area2 .lgx-single-registration {
   border: 4px solid #fff;
@@ -9998,10 +9998,10 @@ lgx-zoomInUp
   margin: 0;
 }
 .lgx-registration-area3 .lgx-single-registration:nth-child(1) {
-  background: #efa506;
+  background: #f8c713;
 }
 .lgx-registration-area3 .lgx-single-registration:nth-child(1) .single-top .title {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-registration-area3 .lgx-single-registration:nth-child(2) {
   background: #FFBB33;
@@ -10034,7 +10034,7 @@ lgx-zoomInUp
 }
 .lgx-registration-area3 .lgx-single-registration .single-top .price {
   line-height: 8rem;
-  color: #ec398b;
+  color: #f8c713;
 }
 .lgx-registration-area3 .lgx-single-registration .single-top .title {
   padding-top: 5rem;
@@ -10046,10 +10046,10 @@ lgx-zoomInUp
   color: #fff;
 }
 .lgx-registration-area3 .recommended .lgx-btn {
-  background: #ec398b;
+  background: #f8c713;
 }
 .lgx-registration-area3 .recommended .lgx-btn:hover {
-  background: #efa506;
+  background: #f8c713;
 }
 .lgx-registration-area {
   display: flex;
@@ -10071,10 +10071,10 @@ lgx-zoomInUp
   box-shadow: 0 0 16px #ccc;
 }
 .lgx-registration-area .lgx-single-registration-christmas .lgx-btn {
-  background: #ec398b;
+  background: #f8c713;
 }
 .lgx-registration-area .lgx-single-registration-christmas .lgx-btn:hover {
-  background: #efa506;
+  background: #f8c713;
 }
 .lgx-registration-area .lgx-single-registration-christmas .lgx-single-registration-inner {
   padding: 4.2rem 2rem 9rem;
@@ -10098,7 +10098,7 @@ lgx-zoomInUp
 }
 .lgx-registration-area .lgx-single-registration-christmas .single-top .price {
   font-family: 'Oswald', sans-serif;
-  color: #efa506;
+  color: #f8c713;
   font-size: 68px;
   line-height: 102px;
   font-size: 6.8rem;
@@ -10142,18 +10142,18 @@ lgx-zoomInUp
   color: inherit;
 }
 .lgx-registration-area .lgx-single-registration-christmas:nth-child(1) .single-top .price {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-registration-area .lgx-single-registration-christmas:nth-child(1) .single-top .price i {
-  color: #1b273d;
+  color: #1c1d21;
   opacity: .4;
 }
 .lgx-registration-area .lgx-single-registration-christmas:nth-child(1) .single-top .price span {
-  color: #1b273d;
+  color: #1c1d21;
   opacity: .7;
 }
 .lgx-registration-area .lgx-single-registration-christmas:nth-child(1) .single-bottom ul li {
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-registration-area .lgx-single-registration-christmas:last-child {
   border-radius: 0 12px 12px 0;
@@ -10176,27 +10176,27 @@ lgx-zoomInUp
   color: inherit;
 }
 .lgx-registration-area .lgx-single-registration-christmas:hover .single-top .price {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-registration-area .lgx-single-registration-christmas:hover .single-top .price i {
-  color: #1b273d;
+  color: #1c1d21;
   opacity: .4;
 }
 .lgx-registration-area .lgx-single-registration-christmas:hover .single-top .price span {
-  color: #1b273d;
+  color: #1c1d21;
   opacity: .7;
 }
 .lgx-registration-area .lgx-single-registration-christmas:hover .single-bottom ul li {
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-registration-area .recommended {
-  background: #efa506;
+  background: #f8c713;
 }
 .lgx-registration-area .recommended .lgx-btn {
   background: #FFBB33;
 }
 .lgx-registration-area .recommended .lgx-btn:hover {
-  background: #efa506;
+  background: #f8c713;
 }
 .lgx-registration-area .recommended .single-top .title {
   color: #FFBB33;
@@ -10291,7 +10291,7 @@ lgx-zoomInUp
 .lgx-registration-form-box .lgx-submit {
   display: block;
   width: 100%;
-  background: #efa506;
+  background: #f8c713;
   margin-top: 2rem;
   color: #FFBB33;
 }
@@ -10299,7 +10299,7 @@ lgx-zoomInUp
 .lgx-registration-form-box .wpcf7-form-control.lgx-submit:hover,
 .lgx-registration-form-box .wpcf7-submit:hover,
 .lgx-registration-form-box .lgx-submit:hover {
-  background: #ec398b;
+  background: #f8c713;
   color: #fff;
 }
 .lgx-registration-simple {
@@ -10329,7 +10329,7 @@ lgx-zoomInUp
   display: flex;
 }
 .lgx-inner-countdown .countdown-left-info {
-  background: #efa506;
+  background: #f8c713;
   width: 30%;
   text-align: center;
   padding: 4.2rem 1rem;
@@ -10475,7 +10475,7 @@ lgx-zoomInUp
   background-size: cover;
 }
 .lgx-countdowns4 .lgx-inner {
-  background: #1b273d;
+  background: #1c1d21;
   padding: 6.8rem 0;
 }
 .lgx-countdown-area-squre {
@@ -10561,10 +10561,10 @@ lgx-zoomInUp
   color: #fff;
 }
 #circular-countdown-whitebg .time_circles > div > h4 {
-  color: #1b273d;
+  color: #1c1d21;
 }
 #circular-countdown-whitebg .time_circles > div > span {
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-countdown-simple #lgx-countdown span {
   text-align: center;
@@ -10767,7 +10767,7 @@ lgx-zoomInUp
   display: block;
 }
 .lgx-gallery-single:hover figure figcaption .lgx-hover-link .lgx-vertical a:hover {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-photo-gallery-black {
   background: url('http://placehold.it/1920x800') bottom center no-repeat fixed;
@@ -11331,7 +11331,7 @@ blockquote.lgx-testi-single:before {
 .lgx-video-area figure figcaption .video-icon i {
   display: inline-block;
   background: #fff;
-  color: #1b273d;
+  color: #1c1d21;
   margin: 0 30px;
   border-radius: 50%;
   height: 90px;
@@ -11391,7 +11391,7 @@ blockquote.lgx-testi-single:before {
 .lgx-modal .modal-dialog .modal-content .modal-body {
   width: 70%;
   margin: 0 auto;
-  background: #1b273d;
+  background: #1c1d21;
 }
 .lgx-modal .modal-dialog .modal-content .modal-body iframe {
   width: 100%;
@@ -11450,7 +11450,7 @@ blockquote.lgx-testi-single:before {
   line-height: 3.9000000000000004rem;
   font-weight: 400;
   margin-bottom: .5rem;
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-leftright-area .lgx-leftright-info .lgx-btn {
   margin-top: 2.6rem;
@@ -11516,7 +11516,7 @@ blockquote.lgx-testi-single:before {
   transform: scale(3.1);
 }
 .lgx-instagram {
-  background: #1b273d;
+  background: #1c1d21;
 }
 .lgx-instagram .lgx-inner {
   padding: 0;
@@ -11657,7 +11657,7 @@ blockquote.lgx-testi-single:before {
   margin-bottom: 2rem;
 }
 .subscriber-title-black {
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-subscriber-inner {
   padding-top: 6.8rem;
@@ -11686,11 +11686,11 @@ blockquote.lgx-testi-single:before {
   box-shadow: none;
 }
 .lgx-subscribe-form .lgx-btn {
-  background: #efa506;
+  background: #f8c713;
   margin-left: 5px;
 }
 .lgx-subscribe-form .lgx-btn:hover {
-  background: #ec398b;
+  background: #f8c713;
 }
 /*-------------------------------------------------------------------*/
 /* 2.20 FOOTER
@@ -11715,7 +11715,7 @@ blockquote.lgx-testi-single:before {
   background-size: cover;
 }
 .lgx-footer-black .lgx-inner-footer {
-  background: rgba(27, 39, 61, 0.95);
+  background: rgba(28, 29, 33, 0.95);
 }
 .lgx-footer-christmas {
   background: url('http://placehold.it/1920x850') bottom center no-repeat;
@@ -11777,7 +11777,7 @@ blockquote.lgx-testi-single:before {
   opacity: 1;
 }
 .lgx-social-footer:hover > li:hover a {
-  background: #efa506;
+  background: #f8c713;
 }
 .lgx-footer-area {
   display: flex;
@@ -11826,7 +11826,7 @@ blockquote.lgx-testi-single:before {
   color: inherit;
 }
 .lgx-footer-single .date {
-  color: #efa506;
+  color: #f8c713;
   text-transform: uppercase;
   font-weight: 400;
 }
@@ -11841,11 +11841,11 @@ blockquote.lgx-testi-single:before {
   line-height: 39px;
   font-size: 2.6rem;
   line-height: 3.9000000000000004rem;
-  color: #efa506;
+  color: #f8c713;
   margin-right: 5px;
 }
 .lgx-footer-single .map-link:hover {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-footer-single .footer-title {
   font-family: 'Oswald', sans-serif;
@@ -11926,7 +11926,7 @@ blockquote.lgx-testi-single:before {
 }
 .lgx-footer-bottom p span,
 .lgx-footer-bottom p a {
-  color: #efa506;
+  color: #f8c713;
 }
 /********************************************************************/
 /* 3. SINGLE PAGE STYLE
@@ -11988,14 +11988,14 @@ blockquote.lgx-testi-single:before {
 }
 .lgx-banner-inner .breadcrumb li a i {
   margin-right: .5rem;
-  color: #ec398b;
+  color: #f8c713;
 }
 .lgx-banner-inner .breadcrumb .active {
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-banner-inner .breadcrumb > li + li:before {
   padding: 0 5px;
-  color: #efa506;
+  color: #f8c713;
   content: "/\00a0";
   opacity: .3;
 }
@@ -12055,7 +12055,7 @@ blockquote.lgx-testi-single:before {
 }
 .lgx-post-wrapper .lgx-single-speacial .speacial-info .title,
 .lgx-page-wrapper .lgx-single-speacial .speacial-info .title {
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-post-wrapper .lgx-single-speacial .speacial-info .title a,
 .lgx-page-wrapper .lgx-single-speacial .speacial-info .title a {
@@ -12063,7 +12063,7 @@ blockquote.lgx-testi-single:before {
 }
 .lgx-post-wrapper .lgx-single-speacial:hover .speacial-info,
 .lgx-page-wrapper .lgx-single-speacial:hover .speacial-info {
-  background: #1b273d;
+  background: #1c1d21;
 }
 .lgx-post-wrapper .lgx-single-speacial:hover .speacial-info .title,
 .lgx-page-wrapper .lgx-single-speacial:hover .speacial-info .title {
@@ -12097,7 +12097,7 @@ blockquote.lgx-testi-single:before {
   margin-bottom: 2rem;
 }
 .lgx-post-wrapper .speaker-info .title {
-  color: #1b273d;
+  color: #1c1d21;
 }
 .lgx-post-wrapper .speaker-info .title a {
   font-size: inherit;
@@ -12111,7 +12111,7 @@ blockquote.lgx-testi-single:before {
   line-height: 2.4000000000000004rem;
   font-weight: 400;
   margin: 0;
-  color: #efa506;
+  color: #f8c713;
 }
 .lgx-post-wrapper article header {
   margin-bottom: 4.2rem;
@@ -12147,7 +12147,7 @@ blockquote.lgx-testi-single:before {
 }
 .lgx-post-wrapper article header .menu-price span {
   font-family: 'Poppins', sans-serif;
-  color: #1b273d;
+  color: #1c1d21;
   font-weight: 300;
   font-size: 16px;
   font-size: 1.6rem;
@@ -12211,7 +12211,7 @@ blockquote.lgx-testi-single:before {
   display: inline-block;
 }
 .lgx-post-wrapper article header .hits-area .date a {
-  color: #1b273d;
+  color: #1c1d21;
   margin-right: 1.5rem;
 }
 .lgx-post-wrapper article header .hits-area .date a i {
@@ -12220,7 +12220,7 @@ blockquote.lgx-testi-single:before {
   opacity: .5;
 }
 .lgx-post-wrapper article header .hits-area .hit-right {
-  color: #1b273d;
+  color: #1c1d21;
   opacity: .7;
 }
 .lgx-post-wrapper article header .hits-area .hit-right a {
@@ -12495,10 +12495,10 @@ blockquote.lgx-testi-single:before {
     margin-bottom: 4.2rem;
   }
   .lgx-info-circle .info-circle-inner .date span {
-    color: #1b273d;
+    color: #1c1d21;
   }
   .lgx-info-circle .info-circle-inner #lgx-countdown i {
-    color: #1b273d;
+    color: #1c1d21;
   }
   .lgx-info-circle .info-circle-inner #lgx-countdown .lgx-days {
     color: #fd56a3;

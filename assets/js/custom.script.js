@@ -41,7 +41,7 @@
                 "time": {
                     "Days": {
                         "text": "Days",
-                        "color": "#ec398b",
+                        "color": "#f8c713",
                         "show": true
                     },
                     "Hours": {
