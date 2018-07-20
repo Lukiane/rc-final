@@ -6846,7 +6846,7 @@ button:hover:after,
 }
 .lgx-banner-info .title i b:nth-child(3),
 .lgx-banner-info .title span b:nth-child(3) {
-  color: #00acee;
+  color: #3e91cc;
 }
 .lgx-banner-info .date {
   font-family: 'Poppins', sans-serif;
@@ -7049,7 +7049,7 @@ button:hover:after,
   color: #f8c713;
 }
 .lgx-banner-info-homeone .title span b:nth-child(3) {
-  color: #00acee;
+  color: #3e91cc;
 }
 .lgx-banner-info-center {
   text-align: center;
@@ -10010,10 +10010,10 @@ lgx-zoomInUp
   color: #7e24e6;
 }
 .lgx-registration-area3 .lgx-single-registration:nth-child(3) {
-  background: #00acee;
+  background: #3e91cc;
 }
 .lgx-registration-area3 .lgx-single-registration:nth-child(3) .single-top .title {
-  color: #00acee;
+  color: #3e91cc;
 }
 .lgx-registration-area3 .lgx-single-registration:nth-child(4) {
   background: #6ba229;
@@ -10541,7 +10541,7 @@ lgx-zoomInUp
 }
 .lgx-countdown-area-squre #lgx-countdown .lgx-min {
   color: #fff;
-  background: #00acee;
+  background: #3e91cc;
 }
 .lgx-countdown-area-squre #lgx-countdown .lgx-sec {
   color: #fff;
@@ -12507,7 +12507,7 @@ blockquote.lgx-testi-single:before {
     color: #9e1881;
   }
   .lgx-info-circle .info-circle-inner #lgx-countdown .lgx-min {
-    color: #00acee;
+    color: #3e91cc;
   }
   .lgx-info-circle .info-circle-inner #lgx-countdown .lgx-sec {
     color: #8478fd;

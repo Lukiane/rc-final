@@ -6846,7 +6846,7 @@ button:hover:after,
 }
 .lgx-banner-info .title i b:nth-child(3),
 .lgx-banner-info .title span b:nth-child(3) {
-  color: #00acee;
+  color: #3e91cc;
 }
 .lgx-banner-info .date {
   font-family: 'Poppins', sans-serif;
@@ -7057,7 +7057,7 @@ button:hover:after,
   color: #f8c713;
 }
 .lgx-banner-info-homeone .title span b:nth-child(3) {
-  color: #00acee;
+  color: #3e91cc;
 }
 .lgx-banner-info-center {
   text-align: center;
@@ -8432,7 +8432,7 @@ lgx-zoomInUp
   transition-duration: 0.3s;
 }
 .lgx-single-speaker figure figcaption {
-  background: rgba(25, 118, 210, 0.9);
+  background: rgba(62, 145, 204, 0.9);
   position: absolute;
   bottom: 0;
   left: 0;
@@ -8540,7 +8540,7 @@ lgx-zoomInUp
   transition-duration: 0.3s;
 }
 .lgx-single-speaker-circle figure figcaption {
-  background: rgba(25, 118, 210, 0.9);
+  background: rgba(62, 145, 204, 0.9);
   position: absolute;
   bottom: 0;
   left: 0;
@@ -8799,7 +8799,7 @@ lgx-zoomInUp
   background-size: cover;
 }
 .lgx-milestone-about .lgx-inner {
-  background: rgba(25, 118, 210, 0.9);
+  background: rgba(62, 145, 204, 0.9);
   padding: 16.6rem 0;
 }
 .lgx-milestone .lgx-counter-area {
@@ -8857,7 +8857,7 @@ lgx-zoomInUp
   background: #3e91cc;
 }
 .lgx-schedule .lgx-inner {
-  background: url('../img/schedule-bg-pattern.png') bottom center no-repeat;
+  background: url('../img/schedule-pattern.png') bottom center no-repeat;
   -webkit-background-size: 100% auto, cover;
   -o-background-size: 100% auto, cover;
   -moz-background-size: 100% auto, cover;
@@ -9814,7 +9814,7 @@ lgx-zoomInUp
   background-size: cover;
 }
 .lgx-registration2 .lgx-inner {
-  background: rgba(25, 118, 210, 0.9);
+  background: rgba(62, 145, 204, 0.9);
 }
 .lgx-registration3 {
   background: #1c1d21;
@@ -10018,10 +10018,10 @@ lgx-zoomInUp
   color: #3e91cc;
 }
 .lgx-registration-area3 .lgx-single-registration:nth-child(3) {
-  background: #00acee;
+  background: #3e91cc;
 }
 .lgx-registration-area3 .lgx-single-registration:nth-child(3) .single-top .title {
-  color: #00acee;
+  color: #3e91cc;
 }
 .lgx-registration-area3 .lgx-single-registration:nth-child(4) {
   background: #6ba229;
@@ -10318,7 +10318,7 @@ lgx-zoomInUp
   background-size: cover;
 }
 .lgx-registration-simple .lgx-inner {
-  background: rgba(25, 118, 210, 0.9);
+  background: rgba(62, 145, 204, 0.9);
 }
 .lgx-registration-simple {
   text-align: center;
@@ -10473,7 +10473,7 @@ lgx-zoomInUp
   background-size: cover;
 }
 .lgx-countdowns3 .lgx-inner {
-  background: rgba(25, 118, 210, 0.9);
+  background: rgba(62, 145, 204, 0.9);
 }
 .lgx-countdowns4 {
   background: url('http://placehold.it/1920x800') top center no-repeat fixed;
@@ -10549,7 +10549,7 @@ lgx-zoomInUp
 }
 .lgx-countdown-area-squre #lgx-countdown .lgx-min {
   color: #fff;
-  background: #00acee;
+  background: #3e91cc;
 }
 .lgx-countdown-area-squre #lgx-countdown .lgx-sec {
   color: #fff;
@@ -10720,7 +10720,7 @@ lgx-zoomInUp
   transition: 0.4s ease;
 }
 .lgx-gallery-single figure figcaption {
-  background: rgba(25, 118, 210, 0.9);
+  background: rgba(62, 145, 204, 0.9);
   position: absolute;
   left: 5%;
   top: 5%;
@@ -11713,7 +11713,12 @@ blockquote.lgx-testi-single:before {
   text-align: center;
 }
 .lgx-footer .lgx-inner-footer {
-  background: rgba(25, 118, 210, 0.95);
+  background: rgba(28, 29, 33, 0.95);
+}
+
+#register-wrapper {
+  padding: 0;
+  padding-bottom: 110px;
 }
 .lgx-footer-music {
   background: url('http://placehold.it/1920x850') bottom center no-repeat;
@@ -11953,7 +11958,7 @@ blockquote.lgx-testi-single:before {
   padding: 17rem 0 9rem;
 }
 .lgx-banner-inner {
-  background: url('http://placehold.it/1920x500') center center no-repeat;
+  background: url('../img/about-subheader.png') center center no-repeat;
   -webkit-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
@@ -12515,7 +12520,7 @@ blockquote.lgx-testi-single:before {
     color: #9e1881;
   }
   .lgx-info-circle .info-circle-inner #lgx-countdown .lgx-min {
-    color: #00acee;
+    color: #3e91cc;
   }
   .lgx-info-circle .info-circle-inner #lgx-countdown .lgx-sec {
     color: #8478fd;

@@ -51,7 +51,7 @@
                     },
                     "Minutes": {
                         "text": "Minutes",
-                        "color": "#00acee",
+                        "color": "#3e91cc",
                         "show": true
                     },
                     "Seconds": {
