@@ -1,0 +1,211 @@
+.img-info {
+    width: 128px;
+    height: 128px;
+
+}
+
+/*Blockchain Icon Animation---*/
+.cls-4 {
+    transition: all 0.3s 0s ease;
+}
+.blockchain:hover .cls-4 {
+    fill: #f8c713;
+    animation: color-change-yellow 1s 0.4s infinite ease;
+}
+
+.cls-2 {
+    transition: all 0.3s 0s ease;
+}
+.blockchain:hover .cls-2 {
+    fill: #3e91cc;
+    animation: color-change-blue 1s 0.4s infinite ease;
+}
+
+.black-polygon {
+    transition: all 0.4s 0s ease;
+    transform-origin: 81.25% 71.87%;
+}
+.blockchain:hover .black-polygon {
+    animation: scaling 1s infinite ease;
+    transition: all 0.4s 0s ease;
+}
+
+/*Bio-Eng Icon Animation*/
+cls-6 {
+    transition: all 0.3s 0s ease;
+}
+.bio-eng:hover .cls-6 {
+    fill: #f8c713;
+    animation: color-change-yellow 1s 0.4s infinite ease;
+}
+
+.cls-7 {
+    transition: all 0.3s 0s ease;
+}
+.bio-eng:hover .cls-7 {
+    fill: #3e91cc;
+    animation: color-change-blue 1s 0.4s infinite ease;
+}
+
+.dot-eye {
+    transition: all 0.4s 0s ease;
+    transform-origin: 50% 44.53%;
+}
+.bio-eng:hover .dot-eye {
+    animation: scaling-eye 1s 0.4s infinite ease;
+}
+
+
+/*Robot-ai Icon Animation*/
+.cls-9 {
+    transition: all 0.3s 0s ease;
+}
+.robot-info:hover .cls-9 {
+    fill: #f8c713;
+    animation: color-change-yellow 1s 0.4s infinite ease;
+}
+
+.cls-10 {
+    transition: all 0.3s 0s ease;
+}
+.robot-info:hover .cls-10 {
+    fill: #3e91cc;
+    animation: color-change-blue 1s 0.4s infinite ease;
+}
+
+.left-eye {
+    transition: all 0.4s 0s ease;
+    transform-origin: 71.09% 49.21%;
+}
+.robot-info:hover .left-eye {
+    animation: scaling-left-eye 1s 0.4s infinite ease-in;
+}
+
+/*Transhuman Icon*/
+.cls-13 {
+    transition: all 0.3s 0s ease;
+}
+.trans-human:hover .cls-13 {
+    fill: #f8c713;
+    animation: color-change-yellow 1s 0.4s infinite ease;
+}
+
+.cls-12 {
+    transition: all 0.3s 0s ease;
+}
+.trans-human:hover .cls-12 {
+    fill: #3e91cc;
+    animation: color-change-blue 1s 0.4s infinite ease;
+}
+
+/*Darknet*/
+.cls-15 {
+    transition: all 0.3s 0s ease;
+}
+.dark-net:hover .cls-15 {
+    stroke: #f8c713;
+    animation: color-change-yellow 1s 0.4s infinite ease;
+}
+
+.cls-16 {
+    transition: all 0.3s 0s ease;
+}
+.dark-net:hover .cls-16 {
+    stroke: #3e91cc;
+    animation: color-change-blue 1s 0.4s infinite ease;
+}
+
+
+
+
+/*Hover Scaling total Icon*/
+.bio-eng:hover .bio-icon {
+    fill: #3e91cc;
+    animation: scaling 1s infinite ease;
+}
+.robot-info:hover .robot-icon {
+    fill: #3e91cc;
+    animation: scaling 1s infinite ease;
+}
+.blockchain:hover .block-icon {
+    fill: #3e91cc;
+    animation: scaling 1s infinite ease;
+}
+.trans-human:hover .trans-human-icon {
+    fill: #3e91cc;
+    animation: scaling 1s infinite ease;
+}
+
+
+
+@keyframes color-change-blue {
+    0% {
+        fill: #3e91cc;
+    }
+    50% {
+        fill: #f8c713;
+    }
+    100% {
+        fill: #3e91cc;
+    }
+}
+
+@keyframes color-change-yellow {
+    0% {
+        fill: #f8c713;
+    }
+    50% {
+        fill: #3e91cc;
+    }
+    100% {
+        fill: #f8c713;
+    }
+}
+
+
+@keyframes rotation {
+    from {
+        transform: rotate(0deg);
+        transform-origin: 81.25% 71.87%;
+    }
+    to {
+        transform: rotate(359deg);
+        transform-origin: 81.25% 71.87%;
+    }
+}
+
+@keyframes scaling {
+    0% {
+        transform: scale(1,1);
+    }
+    50% {
+        transform: scale(0.9,0.9);
+    }
+    100% {
+        transform: scale(1,1);
+    }
+}
+
+@keyframes scaling-eye {
+    0% {
+        transform: scale(1,1);
+    }
+    50% {
+        transform: scale(1.9,0.1);
+    }
+    100% {
+        transform: scale(1,1);
+    }
+}
+
+@keyframes scaling-left-eye {
+    0% {
+        transform: scale(1,1);
+    }
+    50% {
+        transform: scale(1.2,0.05);
+    }
+    100% {
+        transform: scale(1,1);
+    }
+}
